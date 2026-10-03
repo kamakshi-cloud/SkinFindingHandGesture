@@ -4,3 +4,4 @@ __pycache__/
 .env
 results/
 .vscode/
+results_old
