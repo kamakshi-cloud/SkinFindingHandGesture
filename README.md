@@ -246,4 +246,14 @@ The recognized result depends on the detected hand landmarks and their positions
 
 ## 📸 Project Screenshots
 
-Screenshots demonstrating the working application can
+### Real-Time Hand Gesture Detection
+
+The application captures live webcam input and displays the detected hand landmarks and gesture information in real time.
+
+![Real-Time Hand Gesture Detection](screenshots/Screenshot%202026-09-11%20172943.png)
+
+### Gesture Recognition Interface
+
+The application provides visual feedback for the detected hand gesture and finger count.
+
+![Gesture Recognition Interface](screenshots/Screenshot%202026-09-11%20173744.png)
